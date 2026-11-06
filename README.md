@@ -60,3 +60,7 @@ califiapp/
 | HU-04 | Mostrar reporte del grupo | 3 |
 
 Tablero del proyecto: (pega aquí la liga de tu GitHub Project)
+
+## Tablero del proyecto
+
+[Ver tablero Scrum](https://github.com/users/Chris212iob/projects/1)
