@@ -76,7 +76,6 @@ def opcion_promedios():
 
 # ---------------- HU-04 Mostrar reporte del grupo ----------------
 def opcion_reporte():
-    print("Total de alumnos en el reporte:", len(promedios))
     print("\n[HU-04] Reporte del grupo")
     print("-" * 50)
     print("NOMBRE | PROMEDIO | ESTATUS")
