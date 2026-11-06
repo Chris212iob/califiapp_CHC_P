@@ -6,7 +6,7 @@ Proyecto Scrum del Submódulo 2 · CBTIS 200 · 3AM PGR.
 ## Equipo Scrum
 | Responsabilidad | Integrante |
 |---|---|
-| Product Owner | (OMAR) |
+| Product Owner | (Christian) |
 | Scrum Master | (AITOR) |
 | Desarrolladores | (ALISON) |
 
